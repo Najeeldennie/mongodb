@@ -1,21 +1,20 @@
 {
   "name": "mongodb-scraper",
   "version": "1.0.0",
-  "description": "Scrape news articles from an online website, save your favorites, and record your notes for each one using this full MERN stack app.",
-  "main": "server.js",
+  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteveSonoa/MongoDB-Scraper.git"
+    "url": ""
   },
-  "author": "Steve Marshall",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SteveSonoa/MongoDB-Scraper/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/SteveSonoa/MongoDB-Scraper#readme",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.2",
